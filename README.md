@@ -1,2 +1,2 @@
 # spring-boot-mockito
-How to write Unit test case using mockito framework 
+How to write Unit test case using mockito framework.
